@@ -66,5 +66,5 @@ As cores principais estão como variáveis no início de `styles.css` (`--ink`, 
 ## Observações
 
 - As fontes Manrope e DM Sans são carregadas do Google Fonts; sem conexão, o navegador usa fontes alternativas.
-- O telefone do Sanderlucio foi usado no link como informado: DDD `48` + número `99919017`. Como há oito dígitos após o DDD, confirme se este é o WhatsApp correto e atualize o link e o número exibido se houver algum dígito faltando. O contato da Simone é exibido como `(92) 9304-7541`.
+- O telefone do Sanderlucio está configurado como `(48) 99991-9017` nos contatos e no link do WhatsApp. O contato da Simone é exibido como `(92) 9304-7541`.
 - A agência é apresentada como independente; a marca Kwai pertence aos respectivos proprietários.
